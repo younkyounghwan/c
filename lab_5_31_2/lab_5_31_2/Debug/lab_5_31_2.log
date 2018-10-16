@@ -1,0 +1,4 @@
+﻿  lab_5_31_2.c
+c:\users\phm71\새 폴더\201814099\lab_5_31_2\lab_5_31_2\lab_5_31_2.c(13): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'double *'
+  lab_5_31_2.vcxproj -> C:\Users\phm71\새 폴더\201814099\lab_5_31_2\Debug\lab_5_31_2.exe
+  lab_5_31_2.vcxproj -> C:\Users\phm71\새 폴더\201814099\lab_5_31_2\Debug\lab_5_31_2.pdb (Full PDB)
